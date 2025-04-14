@@ -1,5 +1,5 @@
+from ApolloToolkit.apollo_tool import ApolloTool
 from superagi.tools.base_toolkit import BaseToolkit
-from apollo_tool import ApolloTool
 
 class ApolloToolkit(BaseToolkit):
     name = "Apollo Toolkit"
